@@ -1,0 +1,7 @@
+D:\Visual-Studio-Projects\AprendendoCSharp\P-MultiplosDe3\bin\Debug\P-MultiplosDe3.exe.config
+D:\Visual-Studio-Projects\AprendendoCSharp\P-MultiplosDe3\bin\Debug\P-MultiplosDe3.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\P-MultiplosDe3\bin\Debug\P-MultiplosDe3.pdb
+D:\Visual-Studio-Projects\AprendendoCSharp\P-MultiplosDe3\obj\Debug\P-MultiplosDe3.csprojAssemblyReference.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\P-MultiplosDe3\obj\Debug\P-MultiplosDe3.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\P-MultiplosDe3\obj\Debug\P-MultiplosDe3.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\P-MultiplosDe3\obj\Debug\P-MultiplosDe3.pdb

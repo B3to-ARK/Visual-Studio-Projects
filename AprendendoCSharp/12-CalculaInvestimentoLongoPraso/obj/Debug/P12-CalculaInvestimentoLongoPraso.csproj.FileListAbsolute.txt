@@ -1,0 +1,6 @@
+D:\Visual-Studio-Projects\AprendendoCSharp\12-CalculaInvestimentoLongoPraso\bin\Debug\12-CalculaInvestimentoLongoPraso.exe.config
+D:\Visual-Studio-Projects\AprendendoCSharp\12-CalculaInvestimentoLongoPraso\bin\Debug\12-CalculaInvestimentoLongoPraso.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\12-CalculaInvestimentoLongoPraso\bin\Debug\12-CalculaInvestimentoLongoPraso.pdb
+D:\Visual-Studio-Projects\AprendendoCSharp\12-CalculaInvestimentoLongoPraso\obj\Debug\P12-CalculaInvestimentoLongoPraso.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\12-CalculaInvestimentoLongoPraso\obj\Debug\12-CalculaInvestimentoLongoPraso.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\12-CalculaInvestimentoLongoPraso\obj\Debug\12-CalculaInvestimentoLongoPraso.pdb

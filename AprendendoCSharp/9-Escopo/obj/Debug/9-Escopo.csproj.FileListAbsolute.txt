@@ -1,0 +1,7 @@
+D:\Visual-Studio-Projects\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csprojAssemblyReference.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe.config
+D:\Visual-Studio-Projects\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.pdb
+D:\Visual-Studio-Projects\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.pdb

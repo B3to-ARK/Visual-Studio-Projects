@@ -1,0 +1,7 @@
+D:\Visual-Studio-Projects\AprendendoCSharp\P-LacoDeRepeticaoFor2\bin\Debug\P-LacoDeRepeticaoFor2.exe.config
+D:\Visual-Studio-Projects\AprendendoCSharp\P-LacoDeRepeticaoFor2\bin\Debug\P-LacoDeRepeticaoFor2.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\P-LacoDeRepeticaoFor2\bin\Debug\P-LacoDeRepeticaoFor2.pdb
+D:\Visual-Studio-Projects\AprendendoCSharp\P-LacoDeRepeticaoFor2\obj\Debug\P-LacoDeRepeticaoFor2.csprojAssemblyReference.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\P-LacoDeRepeticaoFor2\obj\Debug\P-LacoDeRepeticaoFor2.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\P-LacoDeRepeticaoFor2\obj\Debug\P-LacoDeRepeticaoFor2.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\P-LacoDeRepeticaoFor2\obj\Debug\P-LacoDeRepeticaoFor2.pdb

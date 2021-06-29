@@ -1,0 +1,6 @@
+D:\Visual-Studio-Projects\AprendendoCSharp\AtividadeExtra\bin\Debug\AtividadeExtra.exe.config
+D:\Visual-Studio-Projects\AprendendoCSharp\AtividadeExtra\bin\Debug\AtividadeExtra.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\AtividadeExtra\bin\Debug\AtividadeExtra.pdb
+D:\Visual-Studio-Projects\AprendendoCSharp\AtividadeExtra\obj\Debug\AtividadeExtra.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\AtividadeExtra\obj\Debug\AtividadeExtra.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\AtividadeExtra\obj\Debug\AtividadeExtra.pdb

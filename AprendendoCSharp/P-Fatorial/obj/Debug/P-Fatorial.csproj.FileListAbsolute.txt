@@ -1,0 +1,6 @@
+D:\Visual-Studio-Projects\AprendendoCSharp\P-Fatorial\bin\Debug\P-Fatorial.exe.config
+D:\Visual-Studio-Projects\AprendendoCSharp\P-Fatorial\bin\Debug\P-Fatorial.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\P-Fatorial\bin\Debug\P-Fatorial.pdb
+D:\Visual-Studio-Projects\AprendendoCSharp\P-Fatorial\obj\Debug\P-Fatorial.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projects\AprendendoCSharp\P-Fatorial\obj\Debug\P-Fatorial.exe
+D:\Visual-Studio-Projects\AprendendoCSharp\P-Fatorial\obj\Debug\P-Fatorial.pdb

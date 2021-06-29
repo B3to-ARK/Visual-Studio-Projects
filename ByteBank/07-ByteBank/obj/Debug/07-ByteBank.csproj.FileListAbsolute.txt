@@ -1,0 +1,6 @@
+D:\Visual-Studio-Projects\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projects\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+D:\Visual-Studio-Projects\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe
+D:\Visual-Studio-Projects\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.pdb
+D:\Visual-Studio-Projects\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
+D:\Visual-Studio-Projects\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb
